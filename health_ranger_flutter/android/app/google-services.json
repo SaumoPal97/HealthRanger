@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733741590405",
+    "project_id": "healthranger-70dd2",
+    "storage_bucket": "healthranger-70dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733741590405:android:c82fe800de3c9b1e3346ec",
+        "android_client_info": {
+          "package_name": "com.example.health_ranger_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaHJiB6p5NDuw7Zr7MzBXrw4xvLHWLu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
